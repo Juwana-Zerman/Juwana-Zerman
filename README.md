@@ -8,11 +8,12 @@
 
 - 🌱 I’m currently learning **Cloud technologies and pursuing certifications.**
 
+- 👨‍💻 Some of my projects are available at [https://www.juwanazerman.com/](https://www.juwanazerman.com/)
+
 - 📫 How to reach me: **juwanazerman@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/juwanazerman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="juwanazerman" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/juwana-zerman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juwana-zerman" height="30" width="40" /></a>
 </p>
 
