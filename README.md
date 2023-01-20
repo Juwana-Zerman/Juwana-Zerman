@@ -6,7 +6,7 @@
 
 - 🔭 My last creation was a **Kubernetes Challenge** and **a Django Portfolio from scratch.**
 
-- 🌱 I’m currently learning **Cloud technologies and pursuing certifications.**
+- 🌱 I’m currently learning **Salesforce and pursuing certifications.**
 
 - 👨‍💻 Some of my projects are available at [https://www.juwanazerman.com/](https://www.juwanazerman.com/)
 
