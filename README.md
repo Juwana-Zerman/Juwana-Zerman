@@ -23,5 +23,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=juwana-zerman&show_icons=true&locale=en&layout=compact" alt="juwana-zerman" /></p> <br />
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juwana-zerman&show_icons=true&locale=en" alt="juwana-zerman" /></p> <br />
-
-![GitHub metrics](https://metrics.lecoq.io/Juwana-Zerman)  
