@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Salesforce and pursuing certifications.**
 
-- 👨‍💻 Some of my Salesforce projects are available at [https://www.juwanazerman.com/](https://www.juwanazerman.com/)
+- 👨‍💻 Some of my Salesforce projects are available at [http://www.juwanazerman.com](http://www.juwanazerman.com)
 
 - 📫 How to reach me: **juwanazerman@gmail.com**
 
