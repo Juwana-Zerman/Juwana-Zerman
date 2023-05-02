@@ -4,9 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juwana-zerman&label=Profile%20views&color=0e75b6&style=flat" alt="juwana-zerman" /> </p>
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
 
-- 🔭 My last creation was a **Kubernetes Challenge** and **a Django Portfolio from scratch.**
+- 🔭 My last code creation was a **Kubernetes Challenge** and **a Django Portfolio from scratch.**
 
-- 🌱 I’m currently learning **Salesforce and pursuing certifications.**
+- 🌱 I’m currently developing solutions involving **Salesforce Sales and Service Cloud.**
 
 - 👨‍💻 Some of my Salesforce projects are available at [http://www.juwanazerman.com](http://www.juwanazerman.com)
 
